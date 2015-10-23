@@ -1,0 +1,7 @@
+version: "Apple Swift version 2.0 (swiftlang-700.0.59 clang-700.0.72)"
+options: "669e0632536fa078be3492b5057bae09"
+build_time: [497626106, 598969000]
+inputs: 
+	"/Users/tuukkatallgren/ios/CK/CostKeeper/CostKeeper WatchKit Extension/GlanceController.swift": [497238124, 0]
+	"/Users/tuukkatallgren/ios/CK/CostKeeper/CostKeeper WatchKit Extension/NotificationController.swift": [480187182, 0]
+	"/Users/tuukkatallgren/ios/CK/CostKeeper/CostKeeper WatchKit Extension/InterfaceController.swift": [497238124, 0]

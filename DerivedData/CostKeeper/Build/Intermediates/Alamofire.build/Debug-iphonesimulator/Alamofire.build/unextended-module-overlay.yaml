@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/tuukkatallgren/ios/CK/CostKeeper/DerivedData/CostKeeper/Build/Products/Debug-iphonesimulator/Alamofire.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/tuukkatallgren/ios/CK/CostKeeper/DerivedData/CostKeeper/Build/Intermediates/Alamofire.build/Debug-iphonesimulator/Alamofire.build/unextended-module.modulemap',
+    }]
+  }]
+}

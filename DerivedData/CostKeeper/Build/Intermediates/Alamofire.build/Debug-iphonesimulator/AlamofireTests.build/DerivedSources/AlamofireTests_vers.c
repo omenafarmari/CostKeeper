@@ -1,0 +1,1 @@
+ const unsigned char AlamofireTestsVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:AlamofireTests  PROJECT:Alamofire-1" "\n"; const double AlamofireTestsVersionNumber __attribute__ ((used)) = (double)1.;

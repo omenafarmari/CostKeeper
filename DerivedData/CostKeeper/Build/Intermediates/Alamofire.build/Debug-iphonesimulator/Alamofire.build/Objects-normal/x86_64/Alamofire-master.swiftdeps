@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.0 (swiftlang-700.0.59 clang-700.0.72)"
+options: "87e3abd00550d6258dcc5cadb19ed7d5"
+build_time: [497626110, 292555000]
+inputs: 
+	"/Users/tuukkatallgren/ios/CK/Alamofire/Source/Alamofire.swift": !dirty [497238124, 0]
